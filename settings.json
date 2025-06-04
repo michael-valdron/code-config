@@ -24,5 +24,6 @@
             "path": "/usr/bin/dotnet"
         }
     ],
-    "powershell.promptToUpdatePowerShell": false
+    "powershell.promptToUpdatePowerShell": false,
+    "containers.containerClient": "com.microsoft.visualstudio.containers.podman"
 }
