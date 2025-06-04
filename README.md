@@ -1,3 +1,3 @@
-# My Code Config
+# My Code Config - Work
 
-My VS Code / VSCodium configuration files.
+My VS Code / VSCodium configuration files for work.
